@@ -14,7 +14,7 @@ const greeting = {
   username: "Sandipsinh Rathod",
   title: "Hi all, I'm Sandip",
   subTitle: emoji(
-    "A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with Java / Kotlin / JavaScript and some other cool libraries and frameworks."
+    "A passionate Backend Developer 🚀 having an experience of building Web and Mobile applications with Java / Kotlin / JavaScript and some other cool libraries and frameworks."
   ),
   resumeLink:
     "https://ssdd.dev/resume", // Set to empty to hide the button
@@ -43,7 +43,7 @@ const skillsSection = {
   subTitle: "Tries to make Dev's life easier 🤷",
   skills: [
     emoji(
-      "⚡ Develop highly reliable Backend for your web and mobile applications"
+      "⚡ Develop highly reliable Back end for your web and mobile applications"
     ),
     emoji("⚡ Make open source and cheaper solution of popular services like Firebase Database"),
     emoji(
@@ -56,19 +56,11 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "Java",
-      fontAwesomeClassname: "fab fa-java"
+      skillName: "nodejs",
+      fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "Rust",
-      fontAwesomeClassname: "fab fa-rust"
-    },
-    {
-      skillName: "Android java",
-      fontAwesomeClassname: "fab fa-android"
-    },
-    {
-      skillName: "NoSQL Database",
+      skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
     },
     {
@@ -84,10 +76,6 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "NodeJS",
-      fontAwesomeClassname: "fab fa-node"
-    },
-    {
       skillName: "docker",
       fontAwesomeClassname: "fab fa-docker"
     }
@@ -101,16 +89,10 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      logo: "https://scontent.famd8-1.fna.fbcdn.net/v/t1.18169-9/18670972_481134142225677_3352647550279674869_n.png?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=STLwZZwXmyEAX9lq7Lw&_nc_ht=scontent.famd8-1.fna&oh=00_AT_i2Bzr6IuCwtMIYbC-4_t4LYiFw2e9GDCcUaX0t1jH8w&oe=622723DB",
-      schoolName: "Puna International School",
-      subHeader: "Class 12",
-      duration: "2020 - 2022",
-    },
-    {
-      logo: require("./assets/images/hillwoodsSchool.jpg"),
       schoolName: "Hillwoods School",
+      logo: require("./assets/images/hillwoodsSchool.jpg"),
       subHeader: "Class 10",
-      duration: "2016 - 2020",
+      duration: "2017 - 2019",
       // desc: "",
       // descBullets: [
       //   "Class",
@@ -177,7 +159,7 @@ const workExperiences = {
 To know how to get github key look at readme.md */
 
 const openSource = {
-  showGithubProfile: "false",
+  showGithubProfile: "true",
   display: true
 };
 
