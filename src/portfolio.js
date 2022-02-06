@@ -159,8 +159,8 @@ const workExperiences = {
 To know how to get github key look at readme.md */
 
 const openSource = {
-  showGithubProfile: "true",
-  display: true
+  showGithubProfile: "false",
+  display: false
 };
 
 // Some big projects you have worked on
