@@ -24,7 +24,7 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/ssddcodes",
+  github: "https://github.com/ssddOnTop",
   linkedin: "https://www.linkedin.com/in/sandipsinh-rathod-270b3a224/",
   gmail: "sandip@ssdd.dev",
   gitlab: "https://gitlab.com/ssddcodes",
@@ -177,7 +177,7 @@ const workExperiences = {
 To know how to get github key look at readme.md */
 
 const openSource = {
-  showGithubProfile: "false",
+  showGithubProfile: "true",
   display: true
 };
 

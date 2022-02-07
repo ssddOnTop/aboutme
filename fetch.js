@@ -84,6 +84,7 @@ if (USE_GITHUB_DATA === "true") {
         if (err) return console.log(err);
         console.log("saved file to public/profile.json");
       });
+      console.log(JSON.parse(data.toString())["data"]["user"]["pinnedItems"]["edges"]["node"])
     });
   });
 
