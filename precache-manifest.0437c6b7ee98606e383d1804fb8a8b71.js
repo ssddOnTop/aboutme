@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36339bf9bbabda26f6a4d696bf6c0ce2",
+    "revision": "052ac3ebb58a6f4006c31eb2ddd5cf76",
     "url": "/index.html"
   },
   {
-    "revision": "a9d7389c8be1fff89664",
+    "revision": "9506726616f3af614f9f",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "6c3a9a9925dfc793c75c",
+    "revision": "0bd44db7bc711eacb452",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "0ec22ac2bdd751022fca",
-    "url": "/static/css/main.361bf9f6.chunk.css"
+    "revision": "d65d8646a3df20f34b4c",
+    "url": "/static/css/main.e319a820.chunk.css"
   },
   {
-    "revision": "3abb0ae23ecc94cd27f0",
-    "url": "/static/js/2.2a1b69e9.chunk.js"
+    "revision": "cf727e59c28eb12b2b41",
+    "url": "/static/js/2.0a953cdf.chunk.js"
   },
   {
     "revision": "408f8ade359af8695a328ed937291fdf",
-    "url": "/static/js/2.2a1b69e9.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.0a953cdf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a9d7389c8be1fff89664",
-    "url": "/static/js/3.8e90dd32.chunk.js"
+    "revision": "9506726616f3af614f9f",
+    "url": "/static/js/3.8bfc1ddd.chunk.js"
   },
   {
-    "revision": "6c3a9a9925dfc793c75c",
-    "url": "/static/js/4.6d38b789.chunk.js"
+    "revision": "0bd44db7bc711eacb452",
+    "url": "/static/js/4.7d8df90d.chunk.js"
   },
   {
-    "revision": "0ec22ac2bdd751022fca",
-    "url": "/static/js/main.7f78c66e.chunk.js"
+    "revision": "d65d8646a3df20f34b4c",
+    "url": "/static/js/main.4ddfe7de.chunk.js"
   },
   {
-    "revision": "77d75740e83dd794bdcd",
-    "url": "/static/js/runtime-main.6af6466d.js"
+    "revision": "051e74046fbf555a473e",
+    "url": "/static/js/runtime-main.f256fe28.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -58,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
+  },
+  {
+    "revision": "e003363164e2935458b751c76f48a455",
+    "url": "/static/media/puna.e0033631.jpg"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
